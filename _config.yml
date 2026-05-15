@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yongjie Liu"
-  avatar           : "images/avator.jpg"
+  avatar           : "./images/avator.jpg"
   bio              : "Undergraduate in AI @ SWUFE"
   location         : "Chengdu, China"
   employer         : "SWUFE"
