@@ -12,14 +12,12 @@ redirect_from:
 
 I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificial Intelligence at [Southwestern University of Finance and Economics (SWUFE)](https://www.swufe.edu.cn/). My research interests focus on **Graph Neural Networks (GNNs)**, particularly on deep training stability, oversmoothing mitigation, and spectral graph theory for Graph Convolutional Networks (GCNs).
 
-I have authored/co-authored **4 research papers** (all as first/co-first author) targeting top-tier venues including **NeurIPS (CCF-A)**, **IEEE Transactions on Cybernetics (CAS Q1)**, and **Neural Networks (CAS Q2)**, all currently under review.
-
 **Email**: cyjliu.swufe@outlook.com
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our project **StableGuard** was selected as a finalist in the 2026 Citi Cup Financial Innovation Competition!
 - *2025.06*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the 2025 TE AI CUP!
-- *2025.05*: &nbsp;🎉🎉 Two first-author papers and one co-first-author paper submitted to **NeurIPS 2026**.
+- *2025.05*: &nbsp;🎉🎉 Three new research manuscripts completed.
 - *2024.12*: &nbsp;🎖 Elected as **President** of the SWUFE Supercomputing Association.
 
 # 📝 Publications
@@ -31,7 +29,6 @@ I have authored/co-authored **4 research papers** (all as first/co-first author)
 
 **Yongjie Liu**
 
-- Submitted to **NeurIPS 2026 (CCF-A)**.
 - Proposed a Proportional-Integral (PI) feedback propagation framework for deep GCNs, modeling inter-layer propagation as a dynamic process to enhance deep expressiveness and discriminative information retention.
 </div>
 </div>
@@ -43,7 +40,6 @@ I have authored/co-authored **4 research papers** (all as first/co-first author)
 
 **Yongjie Liu** (co-first author)
 
-- Submitted to **NeurIPS 2026 (CCF-A)**.
 - Proposed Higher-Order Eigenvalue Lifting mechanism to boost non-dominant eigenvalues via high-order historical propagation terms, narrowing the effective spectral gap and delaying oversmoothing in deep GCNs.
 </div>
 </div>
@@ -55,7 +51,6 @@ I have authored/co-authored **4 research papers** (all as first/co-first author)
 
 **Yongjie Liu**
 
-- Submitted to **IEEE Transactions on Cybernetics (CAS Q1)**.
 - Introduced FeedbackGCN, incorporating error feedback controllers into GCN forward propagation to mitigate oversmoothing and improve training stability from an energy spectral amplification perspective.
 </div>
 </div>
@@ -67,7 +62,6 @@ I have authored/co-authored **4 research papers** (all as first/co-first author)
 
 **Yongjie Liu**
 
-- Submitted to **Neural Networks (CAS Q2)**.
 - Proposed MixGCN, an adaptive activation mixing framework that dynamically fuses pre-activation signals and post-activation representations at each layer to improve gradient propagation and training stability in deep GCNs.
 </div>
 </div>
@@ -87,8 +81,6 @@ I have authored/co-authored **4 research papers** (all as first/co-first author)
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, **B.Eng. in Artificial Intelligence**, [Southwestern University of Finance and Economics (SWUFE)](https://www.swufe.edu.cn/), Chengdu, China
-  - **GPA**: 3.6/5.0, **Rank**: 10/50
-  - **English**: CET-4, CET-6
   - **Key Courses**: Machine Learning (92), Discrete Mathematics (91), Graph Theory (91), Matrix Analysis
 
 # 💻 Projects & Internships
