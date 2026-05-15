@@ -21,44 +21,6 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 
 # 📝 Publications
 ⌛️Coming soon....
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Proportional-Integral Control for Graph Convolutional Networks]()
-
-**Yongjie Liu**
-
-- Proposed a Proportional-Integral (PI) feedback propagation framework for deep GCNs, modeling inter-layer propagation as a dynamic process to enhance deep expressiveness and discriminative information retention.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Higher Order Eigenvalue Lifting for Graph Convolutional Networks]()
-
-**Yongjie Liu** (co-first author)
-
-- Proposed Higher-Order Eigenvalue Lifting mechanism to boost non-dominant eigenvalues via high-order historical propagation terms, narrowing the effective spectral gap and delaying oversmoothing in deep GCNs.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Feedback-Enhanced Graph Convolutional Networks: Mitigating Oversmoothing via Energy Spectral Amplification]()
-
-**Yongjie Liu**
-
-- Introduced FeedbackGCN, incorporating error feedback controllers into GCN forward propagation to mitigate oversmoothing and improve training stability from an energy spectral amplification perspective.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[MixGCN: Towards Faster Training of GCNs with Adaptive Activation Mixing]() -->
 
 **Yongjie Liu**
 
