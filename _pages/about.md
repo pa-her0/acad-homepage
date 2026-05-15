@@ -15,8 +15,8 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 **Email**: yjliu.swufe@outlook.com
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our project **StableGuard** was selected as a finalist in the 2026 Citi Cup Financial Innovation Competition!
-- *2025.06*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the 2025 TE AI CUP!
+- *2025.09*: &nbsp;🎉🎉 Our project **StableGuard** was selected as a finalist in the [2026 Citi Cup](https://citicup.dufe.edu.cn/user/index/competition) Financial Innovation Competition!
+- *2025.06*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the [2025 TE AI CUP](https://www.te.com.cn/chn-zh/about-te/news-center/te-china-news/2025-08-04-te-ai-cup.html)!
 - *2024.12*: &nbsp;🎖 Elected as **President** of the SWUFE Supercomputing Association.
 
 # 📝 Publications
@@ -69,7 +69,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 - *2026.04* &nbsp;**Second Prize** (Team) & **Third Prize** (Individual), 2026 CCCC-GPLT Group Programming Ladder Contest, **National Level**
 - *2025.12* &nbsp;**Finalist**, 2026 Citi Cup Financial Innovation Application Competition, **National Level**
 - *2025.11* &nbsp;**Second Prize**, 2025 AIC Global Campus Artificial Intelligence Algorithm Elite Competition, **Provincial Level**
-- *2025.06* &nbsp;**Global Champion** (Team Leader), 2025 TE AI CUP (Industry-University Collaboration), Global Competition
+- *2025.06* &nbsp;**Global Champion** (Team Leader), [2025 TE AI CUP](https://www.te.com.cn/chn-zh/about-te/news-center/te-china-news/2025-08-04-te-ai-cup.html) (Industry-University Collaboration), Global Competition
 - *2025.05* &nbsp;**Silver Medal**, 2025 ICPC Sichuan Provincial Programming Contest, **Provincial Level**
 - *2025.05* &nbsp;**Bronze Medal**, 2025 CCPC Chongqing Programming Contest, **Provincial Level**
 - *2025.04* &nbsp;**Second Prize** (Team), 2025 CCCC-GPLT Group Programming Ladder Contest, **National Level**
@@ -92,7 +92,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 
 - *2024.11 - 2025.06*, **Edge-deployed Defect Detection Recognition System**
   - Team leader. Deployed defect detection models to edge devices with NPU acceleration, achieving higher detection efficiency and lower cost while maintaining accuracy.
-  - **Global Champion** at the 2025 TE AI CUP (Industry-University Collaboration).
+  - **Global Champion** at the [2025 TE AI CUP](https://www.te.com.cn/chn-zh/about-te/news-center/te-china-news/2025-08-04-te-ai-cup.html) (Industry-University Collaboration).
 
 - *2024.06 - 2025.11*, **IPU-based Financial Anomaly Detection System**
   - Team leader. Conducted heterogeneous acceleration and parallelization design for traditional financial anomaly detection algorithms (e.g., FlowScope) based on IPU, significantly improving runtime speed and processing efficiency.
