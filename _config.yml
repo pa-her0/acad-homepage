@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yongjie Liu (刘勇杰)"
-description              : "我是一个热爱技术，热爱机器的小萌新<br>I'm a tech enthusiast and a machine lover, just a little newbie!<br>现在集中 ACM（算法竞赛）、机器学习方面的学习<br>Currently focused on algorithm studies and competitive programming<br>喜欢硬件，想去参加 RobotMaster，想去看雪山，去自由的远方！"
+description              : "I'm a tech enthusiast and a machine lover, just a little newbie!"
 url                      : "https://www.whalefall.top"
 baseurl                  : "/acad-homepage"
 repository               : "pa-her0/acad-homepage"
