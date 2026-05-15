@@ -15,7 +15,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 **Email**: yjliu.swufe@outlook.com
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our project **StableGuard** was selected as a finalist in the [2026 Citi Cup](https://citicup.dufe.edu.cn/user/index/competition) Financial Innovation Competition!
+- *2026.05*: &nbsp;🎉🎉 Our project **StableGuard** was selected as a finalist in the [2026 Citi Cup](https://citicup.dufe.edu.cn/user/index/competition) Financial Innovation Competition!
 - *2025.06*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the [2025 TE AI CUP](https://www.te.com.cn/chn-zh/about-te/news-center/te-china-news/2025-08-04-te-ai-cup.html)!
 - *2024.12*: &nbsp;🎖 Elected as **President** of the SWUFE Supercomputing Association.
 
