@@ -22,7 +22,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Proportional-Integral Control for Graph Convolutional Networks]()
@@ -33,7 +33,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Higher Order Eigenvalue Lifting for Graph Convolutional Networks]()
@@ -44,7 +44,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Cybern.</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Feedback-Enhanced Graph Convolutional Networks: Mitigating Oversmoothing via Energy Spectral Amplification]()
@@ -55,7 +55,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MixGCN: Towards Faster Training of GCNs with Adaptive Activation Mixing]()
@@ -70,14 +70,12 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 - *2025.06* &nbsp;**Global Champion** (Team Leader), 2025 TE AI CUP (Industry-University Collaboration), Global Competition
 - *2026.04* &nbsp;**Second Prize** (Team) & **Third Prize** (Individual), 2026 CCCC-GPLT Group Programming Ladder Contest, **National Level**
 - *2025.12* &nbsp;**Finalist**, 2026 Citi Cup Financial Innovation Application Competition, **National Level**
-- *2024, 2025* &nbsp;**National Level** Undergraduate Innovation and Entrepreneurship Training Program (2 times)
 - *2025.04* &nbsp;**Second Prize** (Team), 2025 CCCC-GPLT Group Programming Ladder Contest, **National Level**
 - *2025.11* &nbsp;**Second Prize**, 2025 AIC Global Campus Artificial Intelligence Algorithm Elite Competition, **Provincial Level**
 - *2025.05* &nbsp;**Silver Medal**, 2025 ICPC Sichuan Provincial Programming Contest, **Provincial Level**
 - *2025.05* &nbsp;**Bronze Medal**, 2025 CCPC Chongqing Programming Contest, **Provincial Level**
 - *2024.05* &nbsp;**Bronze Medal**, 2024 ICPC Sichuan Provincial Programming Contest, **Provincial Level**
 - *2023-2025* &nbsp;**Scientific Research & Innovation Scholarship** (3 consecutive years), SWUFE
-- *2023-2025* &nbsp;**Merit Student** (3 consecutive years), SWUFE
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, **B.Eng. in Artificial Intelligence**, [Southwestern University of Finance and Economics (SWUFE)](https://www.swufe.edu.cn/), Chengdu, China
