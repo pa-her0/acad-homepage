@@ -20,7 +20,8 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 - *2024.12*: &nbsp;🎖 Elected as **President** of the SWUFE Supercomputing Association.
 
 # 📝 Publications
-
+⌛️Coming soon....
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +58,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MixGCN: Towards Faster Training of GCNs with Adaptive Activation Mixing]()
+[MixGCN: Towards Faster Training of GCNs with Adaptive Activation Mixing]() -->
 
 **Yongjie Liu**
 
