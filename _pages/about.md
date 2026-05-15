@@ -8,51 +8,107 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificial Intelligence at [Southwestern University of Finance and Economics (SWUFE)](https://www.swufe.edu.cn/). My research interests focus on **Graph Neural Networks (GNNs)**, particularly on deep training stability, oversmoothing mitigation, and spectral graph theory for Graph Convolutional Networks (GCNs).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have authored/co-authored **4 research papers** (all as first/co-first author) targeting top-tier venues including **NeurIPS (CCF-A)**, **IEEE Transactions on Cybernetics (CAS Q1)**, and **Neural Networks (CAS Q2)**, all currently under review.
 
+**Email**: cyjliu.swufe@outlook.com
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 Our project **StableGuard** was selected as a finalist in the 2026 Citi Cup Financial Innovation Competition!
+- *2025.06*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the 2025 TE AI CUP!
+- *2025.05*: &nbsp;🎉🎉 Two first-author papers and one co-first-author paper submitted to **NeurIPS 2026**.
+- *2024.12*: &nbsp;🎖 Elected as **President** of the SWUFE Supercomputing Association.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Proportional-Integral Control for Graph Convolutional Networks]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yongjie Liu**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Submitted to **NeurIPS 2026 (CCF-A)**.
+- Proposed a Proportional-Integral (PI) feedback propagation framework for deep GCNs, modeling inter-layer propagation as a dynamic process to enhance deep expressiveness and discriminative information retention.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Higher Order Eigenvalue Lifting for Graph Convolutional Networks]()
+
+**Yongjie Liu** (co-first author)
+
+- Submitted to **NeurIPS 2026 (CCF-A)**.
+- Proposed Higher-Order Eigenvalue Lifting mechanism to boost non-dominant eigenvalues via high-order historical propagation terms, narrowing the effective spectral gap and delaying oversmoothing in deep GCNs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Cybern.</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Feedback-Enhanced Graph Convolutional Networks: Mitigating Oversmoothing via Energy Spectral Amplification]()
+
+**Yongjie Liu**
+
+- Submitted to **IEEE Transactions on Cybernetics (CAS Q1)**.
+- Introduced FeedbackGCN, incorporating error feedback controllers into GCN forward propagation to mitigate oversmoothing and improve training stability from an energy spectral amplification perspective.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MixGCN: Towards Faster Training of GCNs with Adaptive Activation Mixing]()
+
+**Yongjie Liu**
+
+- Submitted to **Neural Networks (CAS Q2)**.
+- Proposed MixGCN, an adaptive activation mixing framework that dynamically fuses pre-activation signals and post-activation representations at each layer to improve gradient propagation and training stability in deep GCNs.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* &nbsp;**Global Champion** (Team Leader), 2025 TE AI CUP (Industry-University Collaboration), Global Competition
+- *2026.04* &nbsp;**Second Prize** (Team) & **Third Prize** (Individual), 2026 CCCC-GPLT Group Programming Ladder Contest, **National Level**
+- *2025.12* &nbsp;**Finalist**, 2026 Citi Cup Financial Innovation Application Competition, **National Level**
+- *2024, 2025* &nbsp;**National Level** Undergraduate Innovation and Entrepreneurship Training Program (2 times)
+- *2025.04* &nbsp;**Second Prize** (Team), 2025 CCCC-GPLT Group Programming Ladder Contest, **National Level**
+- *2025.11* &nbsp;**Second Prize**, 2025 AIC Global Campus Artificial Intelligence Algorithm Elite Competition, **Provincial Level**
+- *2025.05* &nbsp;**Silver Medal**, 2025 ICPC Sichuan Provincial Programming Contest, **Provincial Level**
+- *2025.05* &nbsp;**Bronze Medal**, 2025 CCPC Chongqing Programming Contest, **Provincial Level**
+- *2024.05* &nbsp;**Bronze Medal**, 2024 ICPC Sichuan Provincial Programming Contest, **Provincial Level**
+- *2023-2025* &nbsp;**Scientific Research & Innovation Scholarship** (3 consecutive years), SWUFE
+- *2023-2025* &nbsp;**Merit Student** (3 consecutive years), SWUFE
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06 (expected)*, **B.Eng. in Artificial Intelligence**, [Southwestern University of Finance and Economics (SWUFE)](https://www.swufe.edu.cn/), Chengdu, China
+  - **GPA**: 3.6/5.0, **Rank**: 10/50
+  - **English**: CET-4, CET-6
+  - **Key Courses**: Machine Learning (92), Discrete Mathematics (91), Graph Theory (91), Matrix Analysis
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Projects & Internships
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - Present*, **StableGuard: Stablecoin Digital Resilience Stress Testing Platform Based on Generative AI**
+  - Core member. Built a high-fidelity stablecoin market stress testing environment based on multi-agent collaboration, simulating interactions among issuers, market makers, and arbitrageurs.
+  - Selected as a finalist in the 2026 Citi Cup Financial Innovation Competition.
+
+- *2024.06 - 2025.11*, **IPU-based Financial Anomaly Detection System**
+  - Team leader. Conducted heterogeneous acceleration and parallelization design for traditional financial anomaly detection algorithms (e.g., FlowScope) based on IPU, significantly improving runtime speed and processing efficiency.
+  - Awarded the 2024 National Undergraduate Innovation and Entrepreneurship Training Program.
+
+- *2025.06 - Present*, **Xinyu Ling: NPU-accelerated Sign Language Recognition System**
+  - Core member. Completed model compression, operator adaptation, and NPU accelerated deployment on edge devices, achieving faster recognition speed and lower deployment cost.
+  - Awarded the 2025 National Undergraduate Innovation and Entrepreneurship Training Program.
+
+- *2024.11 - 2025.06*, **Edge-deployed Defect Detection Recognition System**
+  - Team leader. Deployed defect detection models to edge devices with NPU acceleration, achieving higher detection efficiency and lower cost while maintaining accuracy.
+  - **Global Champion** at the 2025 TE AI CUP (Industry-University Collaboration).
+
+# 🏛 Campus Experience
+- *2024.12 - Present*, **President**, SWUFE Supercomputing Association
+- *2024.05 - Present*, **Programming Department**, SWUFE Singularity Studio
