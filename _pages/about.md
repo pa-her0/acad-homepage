@@ -22,12 +22,6 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 # 📝 Publications
 ⌛️Coming soon....
 
-**Yongjie Liu**
-
-- Proposed MixGCN, an adaptive activation mixing framework that dynamically fuses pre-activation signals and post-activation representations at each layer to improve gradient propagation and training stability in deep GCNs.
-</div>
-</div>
-
 # 🎖 Honors and Awards
 - *2026.05* &nbsp;**Finalist**, 2026 Citi Cup Financial Innovation Application Competition, **National Level**
 - *2026.04* &nbsp;**Second Prize** (Team) & **Third Prize** (Individual), 2026 CCCC-GPLT Group Programming Ladder Contest, **National Level**
