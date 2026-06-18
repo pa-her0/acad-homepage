@@ -11,6 +11,8 @@ description              : "I'm a tech enthusiast and a machine lover, just a li
 url                      : "https://www.whalefall.top"
 baseurl                  : "/acad-homepage"
 repository               : "pa-her0/acad-homepage"
+# Enable only after configuring a public Google Scholar profile.
+google_scholar_stats_enabled : false
 google_scholar_stats_use_cdn : true
 
 # google analytics
