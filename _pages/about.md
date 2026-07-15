@@ -15,9 +15,10 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 **Email**: yjliu.swufe@outlook.com
 
 # 🔥 News
+- *2026.07*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the **2026 TE AI CUP**!
 - *2026.06*: &nbsp;🥉 Won the **Bronze Medal** at the 2026 ICPC Chongqing Provincial Programming Contest!
 - *2026.06*: &nbsp;🎉🎉 Our project **YuJian**, an AI bidirectional sign-language translation and generation system, won the **provincial second prize** in the China Collegiate Computing Design Competition!
-- *2026.05*: &nbsp;🎉🎉 Our project **StableGuard** was selected as a finalist in the [2026 Citi Cup](https://citicup.dufe.edu.cn/user/index/competition) Financial Innovation Competition!
+- *2026.06*: &nbsp;🥉 Our project **StableGuard** won the [**National Third Prize**](https://www.dufe.edu.cn/content_99617.html) at the 2026 Citi Cup Financial Innovation Application Competition!
 - *2025.06*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the [2025 TE AI CUP](https://www.te.com.cn/chn-zh/about-te/news-center/te-china-news/2025-08-04-te-ai-cup.html)!
 - *2024.12*: &nbsp;🎖 Elected as **President** of the SWUFE Supercomputing Association.
 
@@ -25,9 +26,10 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 ⌛️Coming soon....
 
 # 🎖 Honors and Awards
+- *2026.07* &nbsp;**Global Champion** (Team Leader), 2026 TE AI CUP (Industry-University Collaboration), Global Competition
 - *2026.06* &nbsp;**Bronze Medal**, 2026 ICPC Chongqing Provincial Programming Contest, **Provincial Level**
 - *2026.06* &nbsp;**Second Prize**, China Collegiate Computing Design Competition, **Provincial Level**
-- *2026.05* &nbsp;**Finalist**, 2026 Citi Cup Financial Innovation Application Competition, **National Level**
+- *2026.06* &nbsp;[**Third Prize**](https://www.dufe.edu.cn/content_99617.html), 2026 Citi Cup Financial Innovation Application Competition, **National Level**
 - *2026.04* &nbsp;**Second Prize** (Team) & **Third Prize** (Individual), 2026 CCCC-GPLT Group Programming Ladder Contest, **National Level**
 - *2025.11* &nbsp;**Second Prize**, 2025 AIC Global Campus Artificial Intelligence Algorithm Elite Competition, **Provincial Level**
 - *2025.06* &nbsp;**Global Champion** (Team Leader), [2025 TE AI CUP](https://www.te.com.cn/chn-zh/about-te/news-center/te-china-news/2025-08-04-te-ai-cup.html) (Industry-University Collaboration), Global Competition
@@ -45,7 +47,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 
 - *2025.09 - Present*, **StableGuard: Stablecoin Digital Resilience Stress Testing Platform Based on Generative AI**
   - Core member. Built a high-fidelity stablecoin market stress testing environment based on multi-agent collaboration, simulating interactions among issuers, market makers, and arbitrageurs.
-  - Selected as a finalist in the 2026 Citi Cup Financial Innovation Competition.
+  - Won the [**National Third Prize**](https://www.dufe.edu.cn/content_99617.html) at the 2026 Citi Cup Financial Innovation Application Competition.
 
 - *2025.06 - Present*, **Xinyu Ling: NPU-accelerated Sign Language Recognition System**
   - Core member. Completed model compression, operator adaptation, and NPU accelerated deployment on edge devices, achieving faster recognition speed and lower deployment cost.
