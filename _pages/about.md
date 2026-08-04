@@ -46,6 +46,10 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 
 # 💻 Projects & Internships
 
+- *2026 - Present*, **IMR AI Monitoring and Dispatching System**
+  - Team leader. Developed a safety-aware Agent for real-time IMR status monitoring and dynamic dispatching, coordinating logistics task allocation and route planning while improving operational safety and stability and reducing overall costs by **95%**.
+  - **Global Champion** (Team Leader) at the 2026 TE AI CUP (Industry-University Collaboration).
+
 - *2025.09 - Present*, **StableGuard: Stablecoin Digital Resilience Stress Testing Platform Based on Generative AI**
   - Core member. Built a high-fidelity stablecoin market stress testing environment based on multi-agent collaboration, simulating interactions among issuers, market makers, and arbitrageurs.
   - Won the [**National Third Prize**](https://www.dufe.edu.cn/content_99617.html) at the 2026 Citi Cup Financial Innovation Application Competition.
