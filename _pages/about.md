@@ -47,20 +47,20 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 # 💻 Projects & Internships
 
 - *2026 - Present*, **IMR AI Monitoring and Dispatching System**
-  - Team leader. Developed a safety-aware Agent for real-time IMR status monitoring and dynamic dispatching, coordinating logistics task allocation and route planning while improving operational safety and stability and reducing overall costs by **95%**.
+  - Team leader. Implemented real-time monitoring, dynamic dispatching, logistics task allocation, and route planning.
   - **Global Champion** (Team Leader) at the 2026 TE AI CUP (Industry-University Collaboration).
 
 - *2025.09 - Present*, **StableGuard: Stablecoin Digital Resilience Stress Testing Platform Based on Generative AI**
   - Core member. Built a high-fidelity stablecoin market stress testing environment based on multi-agent collaboration, simulating interactions among issuers, market makers, and arbitrageurs.
   - Won the [**National Third Prize**](https://www.dufe.edu.cn/content_99617.html) at the 2026 Citi Cup Financial Innovation Application Competition.
 
-- *2025.06 - Present*, **Xinyu Ling: NPU-accelerated Sign Language Recognition System**
-  - Core member. Completed model compression, operator adaptation, and NPU accelerated deployment on edge devices, achieving faster recognition speed and lower deployment cost.
-  - Awarded the 2025 National Undergraduate Innovation and Entrepreneurship Training Program.
-
 - *2024.11 - 2025.06*, **Edge-deployed Defect Detection Recognition System**
   - Team leader. Deployed defect detection models to edge devices with NPU acceleration, achieving higher detection efficiency and lower cost while maintaining accuracy.
   - **Global Champion** at the [2025 TE AI CUP](https://www.te.com.cn/chn-zh/about-te/news-center/te-china-news/2025-08-04-te-ai-cup.html) (Industry-University Collaboration).
+
+- *2025.06 - Present*, **Xinyu Ling: NPU-accelerated Sign Language Recognition System**
+  - Core member. Completed model compression, operator adaptation, and NPU accelerated deployment on edge devices, achieving faster recognition speed and lower deployment cost.
+  - Awarded the 2025 National Undergraduate Innovation and Entrepreneurship Training Program.
 
 - *2024.06 - 2025.11*, **IPU-based Financial Anomaly Detection System**
   - Team leader. Conducted heterogeneous acceleration and parallelization design for traditional financial anomaly detection algorithms (e.g., FlowScope) based on IPU, significantly improving runtime speed and processing efficiency.
