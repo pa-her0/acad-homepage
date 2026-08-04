@@ -15,6 +15,7 @@ I am **Yongjie Liu (刘勇杰)**, an undergraduate student majoring in Artificia
 **Email**: yjliu.swufe@outlook.com
 
 # 🔥 News
+- *2026.08*: &nbsp;<img class="news-inline-logo" src="{{ '/images/te-connectivity.png' | relative_url }}" alt="TE Connectivity"> Received an offer for a **CO-OP/Intern position** at **TE Connectivity**!
 - *2026.07*: &nbsp;🏆 Won the **Global Champion** (Team Leader) at the **2026 TE AI CUP**!
 - *2026.06*: &nbsp;🥉 Won the **Bronze Medal** at the 2026 ICPC Chongqing Provincial Programming Contest!
 - *2026.06*: &nbsp;🎉🎉 Our project **YuJian**, an AI bidirectional sign-language translation and generation system, won the **provincial second prize** in the China Collegiate Computing Design Competition!

@@ -107,3 +107,12 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-inline-logo {
+    display: inline-block;
+    width: auto;
+    height: 1.8em;
+    margin: 0 .35em 0 .1em;
+    vertical-align: middle;
+    border-radius: .15em;
+}
